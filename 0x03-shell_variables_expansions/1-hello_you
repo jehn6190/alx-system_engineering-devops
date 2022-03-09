@@ -1,2 +1,2 @@
 #!/bin/bash
-ehco "hello" $user
+ehco "Hello $user "
